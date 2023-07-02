@@ -10,6 +10,3 @@
 [submodule "lib/operator-filter-registry"]
 	path = lib/operator-filter-registry
 	url = https://github.com/ProjectOpenSea/operator-filter-registry
-[submodule "lib/multicall"]
-	path = lib/multicall
-	url = https://github.com/mds1/multicall
